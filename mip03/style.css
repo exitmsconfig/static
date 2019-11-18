@@ -77,8 +77,8 @@ mip-vd-tabs .mip-vd-tabs-nav-li {
 
 @font-face {
     font-family: 'fontello';
-    src: url('../static/fonts/fontello.eot');
-    src: url('../static/fonts/fontello.eot#iefix') format('embedded-opentype'),url('../static/fonts/fontello.woff2') format('woff2'),url('../static/fonts/fontello.woff') format('woff'),url('../static/fonts/fontello.ttf') format('truetype'),url('../static/fonts/fontello.svg') format('svg');
+    src: url('https://cdn.jsdelivr.net/gh/exitmsconfig/static/mip03/fontello.eot');
+    src: url('https://cdn.jsdelivr.net/gh/exitmsconfig/static/mip03/fontello.eot#iefix') format('embedded-opentype'),url('https://cdn.jsdelivr.net/gh/exitmsconfig/static/mip03/fontello.woff2') format('woff2'),url('https://cdn.jsdelivr.net/gh/exitmsconfig/static/mip03/fontello.woff') format('woff'),url('https://cdn.jsdelivr.net/gh/exitmsconfig/static/mip03/fontello.ttf') format('truetype'),url('https://cdn.jsdelivr.net/gh/exitmsconfig/static/mip03/fontello.svg') format('svg');
     font-weight: normal;
     font-style: normal;
 }
