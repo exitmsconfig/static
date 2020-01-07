@@ -52,9 +52,9 @@ a.agray{color:#B6B6B6;}
 .header .mainNav{height:80px; width:1000px; margin:0 auto;}
 .header .mainNav .logo{height:80px; overflow:hidden;}
 .header .mainNav .Nav{margin-top:20px;}
-.header .mainNav .Nav ul li{display:inline-block; width:85px; float:left; height:40px; line-height:40px; font-size:24px; font-weight: normal; text-align: center; cursor: pointer;}
+.header .mainNav .Nav ul li{display:inline-block; width:55px; float:left; height:40px; line-height:40px; font-size:24px; font-weight: normal; text-align: center; cursor: pointer;}
 .header .mainNav .Nav ul li:hover{background:url('../images/index_icon.png') 0 0 no-repeat; color:#fff;}
-.header .mainNav .Nav ul li a:link{display:inline-block; width:85px; height:40px;}
+.header .mainNav .Nav ul li a:link{display:inline-block; width:55px; height:40px;}
 .header .mainNav .Nav ul li a:hover{color:#fff;}
 .header .mainNav .Nav ul li.on{background:url('../images/index_icon.png') 0 0 no-repeat; color:#fff;}
 .header .mainNav .search{padding:0 10px; position: relative; cursor: pointer}
